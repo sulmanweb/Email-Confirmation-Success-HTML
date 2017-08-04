@@ -1,6 +1,8 @@
 # Email Confirmed HTML Page
 **Should be shown when email is confirmed by your server**
 
+[Preview HTML Page](https://htmlpreview.github.io/?https://github.com/sulmanweb/Email-Confirmation-Success-HTML/blob/master/index.html)
+
 made by [@sulmanweb](https://twitter.com/sulmanweb)
 
 ## Technologies used:
